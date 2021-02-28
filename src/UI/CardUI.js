@@ -12,7 +12,7 @@ import { useHistory } from 'react-router-dom';
 const useStyles = makeStyles({
   root: {
     width: 240,
-    height: 330,
+    height: 350,
   },
   media: {
     height: 220,
@@ -39,6 +39,9 @@ const CardUI = ({ character }) => {
           </Typography>
           <Typography variant="body2" color="textSecondary" component="p">
             Status: {character.status}
+          </Typography>
+          <Typography variant="body2" color="textSecondary" component="p">
+            Gender: {character.gender}
           </Typography>
         </CardContent>
       </CardActionArea>
