@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-rick-and-morty-with-scrolling/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/react-rick-and-morty-with-scrolling/static/js/main.50cd80b1.chunk.js",
+    "main.js.map": "/react-rick-and-morty-with-scrolling/static/js/main.50cd80b1.chunk.js.map",
+    "runtime-main.js": "/react-rick-and-morty-with-scrolling/static/js/runtime-main.f0017dc1.js",
+    "runtime-main.js.map": "/react-rick-and-morty-with-scrolling/static/js/runtime-main.f0017dc1.js.map",
+    "static/js/2.ea039657.chunk.js": "/react-rick-and-morty-with-scrolling/static/js/2.ea039657.chunk.js",
+    "static/js/2.ea039657.chunk.js.map": "/react-rick-and-morty-with-scrolling/static/js/2.ea039657.chunk.js.map",
+    "static/js/3.dc43f2fe.chunk.js": "/react-rick-and-morty-with-scrolling/static/js/3.dc43f2fe.chunk.js",
+    "static/js/3.dc43f2fe.chunk.js.map": "/react-rick-and-morty-with-scrolling/static/js/3.dc43f2fe.chunk.js.map",
+    "index.html": "/react-rick-and-morty-with-scrolling/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/react-rick-and-morty-with-scrolling/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.ea039657.chunk.js.LICENSE.txt": "/react-rick-and-morty-with-scrolling/static/js/2.ea039657.chunk.js.LICENSE.txt",
+    "static/media/poster.9bdff6c7.jpg": "/react-rick-and-morty-with-scrolling/static/media/poster.9bdff6c7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0017dc1.js",
+    "static/js/2.ea039657.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.50cd80b1.chunk.js"
+  ]
+}
